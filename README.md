@@ -11,7 +11,7 @@ main.cpp, ListNode.h, DoublyLinkedList.h, GenQueue.h, Student.h, Student.cpp, Si
 
 References:
 
-Syntax:
+help with syntax, try/catch, switch statement:
 
 StackOverflow.com
 
