@@ -1,4 +1,6 @@
 # 350-Assignment4
+*used one extension day*
+
 Registrar's Office Simulation
 
 Andriana Agrusa 2344125
