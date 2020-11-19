@@ -23,6 +23,8 @@ List and Queue:
 
 Zybook
 
+Worked with Venezia Quezada
+
 
 How to run:
 
